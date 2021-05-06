@@ -1,0 +1,4 @@
+.idea/
+*/migrations
+mysql.local.conf
+processing/words
